@@ -111,5 +111,4 @@
 
 ## Contributing
 
-Manas8114 (https://github.com/manas8114) ,Chetan (https://github.com/Chetanvikas1), Goverdhan ()
-![Screenshot 2025-04-30 154147](https://github.com/user-attachments/assets/ee0825e7-10ca-4aa4-95a7-2bb5788b927d)
+Manas8114 (https://github.com/manas8114) ,Chetan (https://github.com/Chetanvikas1), Goverdhan (https://github.com/Goverdhan)
